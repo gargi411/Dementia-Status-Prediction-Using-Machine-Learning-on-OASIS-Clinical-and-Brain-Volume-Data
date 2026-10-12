@@ -1,5 +1,3 @@
-# Dementia-Status-Prediction-Using-Machine-Learning-on-OASIS-Clinical-and-Brain-Volume-Data
-
 # Dementia Status Prediction Using Machine Learning on OASIS Clinical and Brain-Volume Data: A KDD-Based Predictive Analytics Study
 
 **Course/Project:** Predictive Analytics (CA3, Individual Academic Project)  
